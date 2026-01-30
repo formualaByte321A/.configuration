@@ -1,3 +1,2 @@
-~/.dotfiles
-yeah it's really cool
-and totally private (I hope)
+Here are my private dot files
+in  my private repo!
